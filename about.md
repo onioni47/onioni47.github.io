@@ -6,15 +6,19 @@ About Me
 Education
 - Hankuk University of Foreign Studies
 - Computer Engineering
+  
 Skills
 - Python
 - JavaScript
 - HTML / CSS
 - Git / GitHub
+  
 Interests
 - AI & Healthcare
+- Web programming
 - Biotechnology
 - Data Analysis
+
 Contact
 - Email:202502030@hufs.ac.kr
 - GitHub: onioni47
